@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/64a89f20-c9d6-408e-990a-a6cae2074d6f)
-<img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk5Ynp5ZHU3N2lnZm5uamU5aTJuOWllNnVqZ28wampnNmFrMGVvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K0yXL4cDnFrq0/giphy.gif alt="Ghibli" width="70%">
+
 
 
 
