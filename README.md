@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I'm currently working on myportfolio
+- 🔭 I'm currently working on [divya-s-portfolio](https://github.com/05divya05/divya-s-portfolio.git)
 
 - 🌱 I’m currently learning React
 
