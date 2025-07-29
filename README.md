@@ -13,5 +13,5 @@
 
 - 💬 Ask me: About my projects !
 
-- 💌 Fun fact: I'm a movie fanatic 
+- 💌 Fun fact: I'm a polyglot
 
